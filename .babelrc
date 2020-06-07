@@ -1,0 +1,7 @@
+// presets 为预定义的一组支持
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
